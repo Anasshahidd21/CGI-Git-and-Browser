@@ -1,0 +1,2 @@
+# CGI-Git-and-Browser
+Your mission is to create a C program that converts an int number to its binary representation. This program will run as a server application and will be printing out the results in a dynamically generated html page. We essentially need 2 entities to be able to expose our program to the outside world: ● an html page that will play the role of an interface between the user and your program ● a c program that implements the logic of converting a number to binary
